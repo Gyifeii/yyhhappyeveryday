@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Christmas Wish",
+  "description": "A cinematic 3D particle experience where your holiday wishes are brought to life by a magical spirit using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
